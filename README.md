@@ -1,6 +1,6 @@
 # CompetitiveCodingInfo
 
-Get info about any codechef user handle.
+Get info about any codeforces user handle.
 Use method /codeforces/{user_handle}.
 This method will give you userInfo as well as user ContestRating .
 With ContestRating you can create a user's graph.
